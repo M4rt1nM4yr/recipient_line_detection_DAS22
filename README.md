@@ -13,4 +13,4 @@ The best combination achieved on the hard test set an F1 score of 80% and recipi
 
 ## Results
 
-![Test1](img/results_test1.png) ![Test2](img/results_test2.png)
+| ![Test1](img/results_test1.png) | ![Test2](img/results_test2.png) |
